@@ -1,0 +1,3 @@
+using vgg16 training Cifar10
+
+the UI is the main function
